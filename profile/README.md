@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://github.com/NCAS-BoxModellingToolkit/.github/tree/main/profile/logo.pdf"/>
+</p>
+
 Welcome to the NCAS-BoxModellingToolkit Organisation. A facilitator for the atmospheric science community.
 
 The atmospheric science community motivate, develop, apply and disseminate the contained repositories. The organisation is overseen by the [National Centre for Atmospheric Science](https://ncas.ac.uk) (NCAS (U.K.)). 
