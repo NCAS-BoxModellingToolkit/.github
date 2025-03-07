@@ -2,9 +2,10 @@
 
 Welcome to the NCAS-BoxModellingToolkit Organisation. A facilitator for the atmospheric science community.
 
-The atmospheric science community motivate, develop, apply and disseminate the contained repositories. The organisation is overseen by the [National Centre for Atmospheric Science](https://ncas.ac.uk) (NCAS (U.K.)). 
+The atmospheric science community motivate, develop, apply and disseminate the contained repositories. The GitHub Organisation is overseen by the [National Centre for Atmospheric Science](https://ncas.ac.uk) (NCAS (U.K.)). 
 
-🙋‍♀️ A short introduction - what is your organization all about?
+Single box models are spatially zero-dimensional, thereby assuming homogeneity of composition across the space being simulated.
+
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
