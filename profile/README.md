@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/NCAS-BoxModellingToolkit/.github/tree/main/profile/logo.png"/>
+  <img src="https://github.com/NCAS-BoxModellingToolkit/.github/blob/main/profile/logo.png"/>
 </p>
 
 Welcome to the NCAS-BoxModellingToolkit Organisation. A facilitator for the atmospheric science community.
