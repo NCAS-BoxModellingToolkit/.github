@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://github.com/NCAS-BoxModellingToolkit/.github/blob/main/profile/logo.png" width="60"/>
-</p>
+<img align="right" src="https://github.com/NCAS-BoxModellingToolkit/.github/blob/main/profile/logo.png" width="80"/>
 
 Welcome to the NCAS-BoxModellingToolkit Organisation. A facilitator for the atmospheric science community.
 
