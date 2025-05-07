@@ -2,13 +2,18 @@
 
 Welcome to the NCAS-BoxModellingToolkit Organisation. A facilitator for the atmospheric science community.
 
-The atmospheric science community motivate, develop, apply and disseminate the contained repositories. The GitHub Organisation is overseen by the [National Centre for Atmospheric Science](https://ncas.ac.uk) (NCAS (U.K.)). 
+The atmospheric science community motivate, develop, apply and disseminate the contained repositories. The GitHub Organisation is overseen by the [National Centre for Atmospheric Science](https://ncas.ac.uk) (NCAS (UK)). 
 
 Single box models are spatially zero-dimensional, thereby assuming homogeneity of composition across the space being simulated.
 
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Currently the organisation supports three box models:
+* [AtChem2](https://github.com/AtChem/AtChem2/tree/master)
+* [INCHEM-Py](https://github.com/DrDaveShaw/INCHEM-Py/tree/main)
+* [PyCHAM](https://github.com/simonom/PyCHAM/tree/master)
+
+Users of the above models will find tools for their setup and analysis in this organisation.
+
+To contribute, you are welcome to contact the developer for the model of interest to discuss ideas. Push requests from a forked repository will be assessed by the relevant developer and gratefully accepted if deemed helpful.
+
 Note that README guidelines are [here](https://www.pyopensci.org/python-package-guide/![image](https://github.com/user-attachments/assets/e8e6b2b5-2b4f-471c-9c1a-3375a206b6de)
 ).
